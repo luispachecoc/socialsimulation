@@ -4,6 +4,7 @@ Este proyecto es parte de la asignatura [Taller de herramientas cuantitativas pa
 
 ## 📌 Enlace del Proyecto
 Puedes acceder al proyecto en el siguiente enlace: [(https://luispachecoc.github.io/socialsimulation/)].
+
 Enlace al repositorio de la tarea 3: [https://github.com/luispachecoc/socialsimulation]
 ## 👤 Estudiante
 **Nombre:** [Luis Alberto Pacheco Concha] 
